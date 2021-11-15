@@ -1,0 +1,12 @@
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\DbFirst.exe.config
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\DbFirst.exe
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\DbFirst.pdb
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\EntityFramework.dll
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\EntityFramework.xml
+D:\UdemyTrainings\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\UdemyTrainings\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.AssemblyReference.cache
+D:\UdemyTrainings\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CoreCompileInputs.cache
+D:\UdemyTrainings\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
+D:\UdemyTrainings\DbFirst\DbFirst\obj\Debug\DbFirst.exe
+D:\UdemyTrainings\DbFirst\DbFirst\obj\Debug\DbFirst.pdb
