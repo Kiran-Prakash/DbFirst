@@ -18,7 +18,6 @@ namespace DbFirst
         public string Title { get; set; }
         public string Description { get; set; }
         public short Price { get; set; }
-        public string LevelString { get; set; }
         public byte Level { get; set; }
     }
 }
